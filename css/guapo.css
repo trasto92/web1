@@ -1,11 +1,20 @@
-body,div {
-	background:url(../imagenes/1.jpg);
-	background-attachment:fixed;
- }
+*{
+	margin:1;
+	padding:1;
+}
+
 h1{
 	font-size: 50px
 }
 h2{
 	color: #C5CAE9;
 	font-size:40px;
+}
 
+div{
+   width: 100px
+   height: 100px
+   background:#4A88F4
+   color:#fff
+   font-size:30px;
+}
