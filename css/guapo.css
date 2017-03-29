@@ -1,14 +1,11 @@
-body {
-	background: #3F51B5;
-    color: #fff;
-    }
+body,div {
+	background:url(../imagenes/1.jpg);
+	background-attachment:fixed;
+ }
 h1{
 	font-size: 50px
 }
 h2{
 	color: #C5CAE9;
 	font-size:40px;
-}
-body {
-	color
-}
+
