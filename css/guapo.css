@@ -1,22 +1,13 @@
-div{
-	background:#303F9F;
-	position: relative;
-	padding:0px;
-	width: 100%;
-
-
-
-
-    
-
-}
-h1{
-	background:#3F51B5;
-	width: 100%;
-	padding: 20% 0% 0% 0%
-	font-size: 5em;
+body{ 
+	background:#F57C00;
 	
+}
 
+div{
+	background:#FF9800
+}
+p{ color:#FFE0B2 }
 
-
+h1,h2{
+	color:#FFFFFF;
 }
